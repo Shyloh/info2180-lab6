@@ -1,0 +1,22 @@
+#Search{
+    background-color: #4CAF50; /* Green */
+    border: 1px solid;
+    color: white;
+    text-align: center;
+    font-size: 16px;
+    
+}
+#header {
+    background-color: purple;
+    padding: 20px 10px 20px 10px;
+    
+}
+h1 {
+    color: white;
+}
+ #part {
+     background-color: lightgrey;
+     margin-top: -10px;
+     margin-bottom: 50px;
+ }
+
